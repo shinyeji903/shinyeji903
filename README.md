@@ -6,7 +6,7 @@
 
 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=black"/>
-<img src="https://img.shields.io/badge/Adobe PremierePro-#999FF?style=for-the-badge&logo=Adobe PremierePro&logoColor=black"/>
+<img src="https://img.shields.io/badge/Adobe PremierePro-#9999FF?style=for-the-badge&logo=Adobe PremierePro&logoColor=black"/>
 <img src="https://img.shields.io/badge/Adobe Photoshop-#31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=black"/>
 <img
   src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=HTML5&logoColor=white"
