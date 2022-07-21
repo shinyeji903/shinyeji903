@@ -2,7 +2,7 @@
 <div align="center"></br> 
 ✨평범한 대학생의 기록 입니다 :)<br/>
 코딩도 하고 영상편집도 하고 포토샵도 다루고 다양한 분야에 시도하는 것을 좋아합니다.<br/>
-현재 대학교에 재학중이며 취업준비중입니다.<br/>
+현재 대학교에 재학중이며 취업준비중입니다.<br/><br/>
 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=black"/><br/>
 
