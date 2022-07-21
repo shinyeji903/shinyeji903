@@ -1,6 +1,5 @@
-<div align="center"></br>
-![header](https://capsule-render.vercel.app/api?type=waving&color=BBDEFB&height=300&section=header&text=ShinYeJi&fontSize=90&animation=twinkling&fontColor=FFFFFF)</br>  
- 
+![header](https://capsule-render.vercel.app/api?type=waving&color=BBDEFB&height=300&section=header&text=ShinYeJi&fontSize=90&animation=twinkling&fontColor=FFFFFF) 
+<div align="center"></br> 
 ✨평범한 대학생의 기록 입니다 :)<br/>
 코딩도 하고 영상편집도 하고 포토샵도 다루고 다양한 분야에 시도하는 것을 좋아합니다.<br/>
 현재 대학교에 재학중이며 취업준비중입니다.<br/>
