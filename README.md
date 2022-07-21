@@ -1,5 +1,8 @@
-### Hi there 👋
-
+ 
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFA883&height=300&section=header&text=ShinYeJi&fontSize=90&animation=twinkling&fontColor=FFFFFF)
+✨대학생 기록 입니다 :) 
+코딩도 하고 영상편집도 하고 포토샵도 좋아합니다.
+다양한 분야에 시도하는 것을 좋아합니다 :)
 <!--
 **shinyeji903/shinyeji903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
